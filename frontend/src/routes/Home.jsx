@@ -13,8 +13,8 @@ function Home() {
     <div className="home-page">
       {!isAuth && (
         <BannerContainer>
-          <h1 className="logo-font">conduit</h1>
-          <p>A place to share your knowledge.</p>
+          <h1 className="logo-font">My Mind</h1>
+          <p>A place to deposit my knowledge and someone who wants to share it.</p>
         </BannerContainer>
       )}
       <ContainerRow type="page">
