@@ -8,7 +8,7 @@ function SourceCodeLink({ left, right }) {
           className="nav-link"
           href="https://github.com/TonyMckes/conduit-realworld-example-app"
         >
-          <i className="ion-social-github"></i> Source code
+          <i className="ion-social-github"></i> Based on Conduit Project
         </a>
       </li>
     </ul>
